@@ -2,7 +2,8 @@
 Master student in applied mathematics at EPFL, sepcialized in numerical analysis.
 ## Usefull links
 [GitHub Profile](https://github.com/Benoit-Muller) –
-[Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US)
+[Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US) –
+[CV](https://benoit-muller.github.io/CV.pdf)
 
 ## Some of my projects
 
