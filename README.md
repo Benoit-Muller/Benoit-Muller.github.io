@@ -7,4 +7,4 @@ A project for the course Low-rank Approximation Techniques.
 given by Prof. Daniel kressner.
 - [GitHub link](Low_Rank_Approximation_Techniques_Project)
 - ![Publication link](https://github.com/Benoit-Muller/Low_Rank_Approximation_Techniques_Project/blob/d3489a3167651830a664839a97bccaa2ba68d741/publication.pdf)
-- [PDF](https://Benoit-Muller.github.io/blob/main/Low-rank%20optimal%20transport%20and%20application%20to%20color%20transfer.pdf)
+- [PDF](https://Benoit-Muller.github.io/Low-rank%20optimal%20transport%20and%20application%20to%20color%20transfer.pdf)
