@@ -30,4 +30,13 @@ In this project, we tackle the problem of pre- dicting whether two frames come f
 **Abstract:** 
 Using machine learning on a dataset from the CERN, we aimed at predicting if a collision event between two protons resulted in the creation of a Higgs boson. To do so, we first cleaned and modified our data and then tried different models and methods. In this report, we present gradient descent, stochastic gradient descent, Ridge regression, logistic regression with stochastic gradient descent (not regularized) and regularized logistic regression with gradient descent. In order to optimize our different methods, we used cross-validation to choose our hyper-parameters. In the end, we found that our best model is Ridge regression, with an accuracy of 0.776. 
 
+### *Stability of linear dynamical systems and application to Lotka-Volterra equations and epidemiology*
+[PDF](https://benoit-muller.github.io/Projet-de-Bachelor/Stability%20of%20linear%20dynamical%20systems%20and%20application%20to%20Lotka-Volterra%20equations%20and%20epidemiology.pdf)
+<br />
+**Abstract:**
+The goal of this project is to study the stability of some linear and nonlinear autonomous ordinary differential systems including the "predator–prey" based Lotka-Volterra models, and to further find applications to epidemiology such as the Covid-19 evolution.
+The first chapter is devoted to the investigation of the stability of linear autonomous ODE systems, where a complete classification is given thanks to spectrum information. We refine these results to give a stability decomposition of the solution space, and show that in general, some stability properties are preserved to related nonlinear systems thanks to linearization arguments.
+Then, we turn in the second chapter to a more specific form of ODE systems, say Lotka-Volterra models. Instead of considering classical Lotka-Volterra systems, we look at a more general form. Because at some special critical points the linearization stability theory is not always applicable, we introduced the Lyapunov approach, which can even lead to global stability results.
+Finally, the third chapter is an application of the preceding chapters, where we try to model Covid- 19 systems concerning patients and vaccinations, and to predict the evolution of the pandemic via stability investigation.
+
 ### [In progress...] *Computational Optimal Transport: A Comparison of Three Algorithms*
