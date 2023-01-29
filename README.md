@@ -30,4 +30,4 @@ In this project, we tackle the problem of pre- dicting whether two frames come f
 **Abstract:** 
 Using machine learning on a dataset from the CERN, we aimed at predicting if a collision event between two protons resulted in the creation of a Higgs boson. To do so, we first cleaned and modified our data and then tried different models and methods. In this report, we present gradient descent, stochastic gradient descent, Ridge regression, logistic regression with stochastic gradient descent (not regularized) and regularized logistic regression with gradient descent. In order to optimize our different methods, we used cross-validation to choose our hyper-parameters. In the end, we found that our best model is Ridge regression, with an accuracy of 0.776. 
 
-### [In progress] *Computational Optimal Transport: A Comparison of Three Algorithms*
+### [In progress...] *Computational Optimal Transport: A Comparison of Three Algorithms*
