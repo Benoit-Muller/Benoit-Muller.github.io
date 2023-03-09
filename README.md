@@ -3,6 +3,7 @@ Master student in applied mathematics at EPFL. Oriented numerical analysis: cont
 ## Usefull links
 - My [GitHub Profile](https://github.com/Benoit-Muller),
 - My [Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US),
+- My [EPFL profile](https://people.epfl.ch/benoit.muller/?lang=en),
 
 ## Some of my projects
 
