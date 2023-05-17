@@ -7,7 +7,7 @@ Master student in applied mathematics at EPFL. Oriented numerical analysis: cont
 
 ## Some of my projects
 
-### [In progress...] *Computational Optimal Transport: A Comparison of Three Algorithms*
+### [In progress...] *Computational Optimal Transport: A Comparison of Two Algorithms*
 
 ### *Low-rank Optimal Transport and Application to Color Transfer*
 [Open PDF in browser](https://benoit-muller.github.io/Low_Rank_Approximation_Techniques_Project/publication.pdf) – [GitHub repository](https://github.com/Benoit-Muller/Low_Rank_Approximation_Techniques_Project)
