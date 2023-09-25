@@ -8,6 +8,9 @@ Master student in applied mathematics at EPFL. Oriented numerical analysis: cont
 ## Some of my projects
 
 ### [In progress...] *Computational Optimal Transport: A Comparison of Two Algorithms*
+[Open PDF in browser](https://benoit-muller.github.io/Computational-Optimal-Transport/Computational_Optimal_Transport__A_Comparison_of_Two_Algorithms-3.pdf) – [GitHub repository](https://github.com/Benoit-Muller/Computational-Optimal-Transport)
+<br />
+**Abstract:** We present here two formulations of the Monge optimal transport problem. The first one is a discretization leading to the linear sum assignment problem, which we solve with the Hungarian algorithm. The second is the dynamical formulation of Benamou-Brenier and leads to a func- tional saddle problem, which we solve by an augmented Lagrangian method. Both methods are implemented, numerically analyzed, and compared.
 
 ### *Low-rank Optimal Transport and Application to Color Transfer*
 [Open PDF in browser](https://benoit-muller.github.io/Low_Rank_Approximation_Techniques_Project/publication.pdf) – [GitHub repository](https://github.com/Benoit-Muller/Low_Rank_Approximation_Techniques_Project)
