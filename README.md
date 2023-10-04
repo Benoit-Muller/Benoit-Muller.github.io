@@ -43,3 +43,6 @@ The goal of this project is to study the stability of some linear and nonlinear 
 The first chapter is devoted to the investigation of the stability of linear autonomous ODE systems, where a complete classification is given thanks to spectrum information. We refine these results to give a stability decomposition of the solution space, and show that in general, some stability properties are preserved to related nonlinear systems thanks to linearization arguments.
 Then, we turn in the second chapter to a more specific form of ODE systems, say Lotka-Volterra models. Instead of considering classical Lotka-Volterra systems, we look at a more general form. Because at some special critical points the linearization stability theory is not always applicable, we introduced the Lyapunov approach, which can even lead to global stability results.
 Finally, the third chapter is an application of the preceding chapters, where we try to model Covid- 19 systems concerning patients and vaccinations, and to predict the evolution of the pandemic via stability investigation.
+
+## Some other Mini-Projects/Homeworks:
+Those are projects not formated in publication style, they dont systematically have a GitHub associated, ask me for more informations. [See Mini-Projects](https://benoit-muller.github.io/miniprojects)
