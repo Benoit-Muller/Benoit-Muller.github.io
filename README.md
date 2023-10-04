@@ -1,5 +1,5 @@
 ## About me
-Master student in applied mathematics at EPFL. Specialized in numerical analysis: continuous optimization, computational linear algebra, differential equations, and others.
+Master student in [applied mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) at [EPFL](https://www.epfl.ch/about/). Specialized in numerical analysis: continuous optimization, computational linear algebra, differential equations, and others.
 ## Usefull links
 - My [GitHub Profile](https://github.com/Benoit-Muller),
 - My [Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US),
