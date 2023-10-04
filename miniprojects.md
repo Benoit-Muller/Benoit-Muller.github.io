@@ -32,10 +32,10 @@
 [Open PDF in browser](https://benoit-muller.github.io/mini_projects/Optimization_On_Manifolds__Project_2-2.pdf)
 <br />
 
-## *Numercis for fluids, structures, and electromagnetics: Polution of a Drinking Reservoir*
+## *Numercis for fluids, structures, and electromagnetics: Pollution of a Drinking Reservoir*
 [Open PDF in browser](https://benoit-muller.github.io/mini_projects/Project_Buffa-2.pdf)
 <br />
 
-## *Stochastic Simulation: Quasi Monte Carlo Integration of Nonsmooth Functions Applied to Pricing Exotic Options *
+## *Stochastic Simulation: Quasi Monte Carlo Integration of Nonsmooth Functions Applied to Pricing Exotic Options*
 [Open PDF in browser](https://benoit-muller.github.io/mini_projects/stochastic_project-2.pdf)
 <br />
