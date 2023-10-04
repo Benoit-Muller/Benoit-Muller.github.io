@@ -1,4 +1,4 @@
-# About me
+## About me
 Master student in applied mathematics at EPFL. Specialized in numerical analysis: continuous optimization, computational linear algebra, differential equations, and others.
 ## Usefull links
 - My [GitHub Profile](https://github.com/Benoit-Muller),
