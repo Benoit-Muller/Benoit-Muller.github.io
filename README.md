@@ -1,3 +1,4 @@
+# Benoît Müller
 ## About me
 Master student in [applied mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) at [EPFL](https://www.epfl.ch/about/). Specialized in numerical analysis: continuous optimization, computational linear algebra, differential equations, and others.
 ## Usefull links
