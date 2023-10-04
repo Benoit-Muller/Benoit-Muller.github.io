@@ -1,3 +1,4 @@
+# Benoît Müller
 ## Some of my mini-projects
 
 ### *Computational Linear Algebra: Nonnegative Matrix Factorization*
