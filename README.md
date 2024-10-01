@@ -1,10 +1,10 @@
 # Benoît Müller
-## About me
-Master student in [applied mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) at [EPFL](https://www.epfl.ch/about/). Specialized in numerical analysis: continuous optimization, computational linear algebra, differential equations, and others.
+## About Me
+Applied Mathematics Engineer with a Master’s degree in [Applied Mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) from [EPFL](https://www.epfl.ch/about/), specializing in numerical analysis. Actively seeking new opportunities to launch an exciting career in the field.
+
 ## Usefull links
-- My [GitHub Profile](https://github.com/Benoit-Muller),
 - My [Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US),
-- My [EPFL profile](https://people.epfl.ch/benoit.muller/?lang=en),
+- My [GitHub Profile](https://github.com/Benoit-Muller),
 
 ## Some of my projects
 
