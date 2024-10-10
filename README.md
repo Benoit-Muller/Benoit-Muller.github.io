@@ -1,10 +1,13 @@
 # Benoît Müller
 ## About Me
-Applied Mathematics Engineer with a Master’s degree in [Applied Mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) from [EPFL](https://www.epfl.ch/about/), specializing in numerical analysis. Actively seeking new opportunities to launch an exciting career in the field.
+Applied Mathematics Engineer with a Master’s degree in [Applied Mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) from [EPFL](https://www.epfl.ch/about/), specializing in numerical analysis. Actively seeking new opportunities to launch an exciting career.
 
 ## Usefull links
 - My [Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US),
 - My [GitHub Profile](https://github.com/Benoit-Muller),
+- My email [benoitmuller82@gmail.com](mailto:benoitmuller82@gmail.com)
+- My [CV](https://benoit-muller.github.io/CV.pdf)
+
 
 ## Some of my projects
 
