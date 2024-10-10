@@ -1,15 +1,15 @@
 # Benoît Müller
 ## About Me
-Applied Mathematics Engineer with a Master’s degree in [Applied Mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) from [EPFL](https://www.epfl.ch/about/), specializing in numerical analysis. Actively seeking new opportunities to launch an exciting career.
+Applied Mathematics Engineer with a Master’s degree in [Applied Mathematics](https://www.epfl.ch/education/master/programs/applied-mathematics/) from [EPFL](https://www.epfl.ch/about/), specializing in [numerical analysis](https://wiki.epfl.ch/sma/numerical-analysis). Actively seeking new opportunities to launch an exciting career.
 
 ## Usefull links
-- My [Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US),
-- My [GitHub Profile](https://github.com/Benoit-Muller),
+- My [Linkedin profile](https://www.linkedin.com/in/benoitmueller/?locale=en_US)
+- My [GitHub Profile](https://github.com/Benoit-Muller)
 - My email [benoitmuller82@gmail.com](mailto:benoitmuller82@gmail.com)
-- My [CV](https://benoit-muller.github.io/CV.pdf)
+- My [CV](https://benoit-muller.github.io/CV.pdf) in PDF
 
 
-## Some of my projects
+## Some of my academic projects
 
 ### *Computational Optimal Transport: A Comparison of Two Algorithms*
 [Open PDF in browser](https://benoit-muller.github.io/Computational-Optimal-Transport/Computational_Optimal_Transport__A_Comparison_of_Two_Algorithms-3.pdf) – [GitHub repository](https://github.com/Benoit-Muller/Computational-Optimal-Transport)
